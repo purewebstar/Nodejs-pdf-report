@@ -1,4 +1,4 @@
-# PD- Doc Generator Demonstration
+# PDF-Doc Generator Demonstration
 > simple PDf document generating using Nodejs and ExpressJs
 
 ## Prerequisite:
